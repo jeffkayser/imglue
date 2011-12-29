@@ -11,6 +11,8 @@ It can also be used as a utility to quickly concatenate images in general.
 
 ## How to use it
 
+Install [Python Imaging Library](http://www.pythonware.com/products/pil/) (PIL)
+
 *Usage*:
 
 ```
